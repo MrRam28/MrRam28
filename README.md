@@ -7,8 +7,7 @@
 - Work with **LLMs, Generative AI, and Vision-Language Models** for automation and analytics.  
 - Create **data pipelines**, perform **exploratory data analysis**, and implement **predictive analytics**.  
 
-📚 **Currently Learning:**  
-- Full Stack Data Science (iNeuron)  
+📚 **Currently Learning:**   
 - Advanced Cloud Deployments (Azure AI Foundry, AWS Bedrock)  
 - MLOps & Scalable AI Systems  
 
